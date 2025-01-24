@@ -51,6 +51,3 @@ This project is a Flask-based web application for implementing an OTP-based logi
    - Enter your username, password, and email address.
    - Receive an OTP in your email inbox.
    - Verify the OTP to access the success page.
-
-## Project Structure
-
